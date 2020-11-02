@@ -2,7 +2,7 @@
 
 ##### Copying the module:
 
-1. Save [the module](https://github.com/microbit-playground/microbit-servo-class/blob/master/servo.py) to your computer.
+1. Save [the module](https://github.com/chatta2539/microbit_analog_servo_SG90-micropython/blob/main/Servolib.py) to your computer.
 
 2. Copy the downloaded module to the `/mu_code/` directory in the root of your home directory.
 
