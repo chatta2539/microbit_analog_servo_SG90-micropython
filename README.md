@@ -10,7 +10,7 @@
 
 4. An error message will scroll across the screen about the lack of the servo module.
 
-5. Once it has finished, click the 'files' icon in mu and upload the `servo.py` file to your microbit.
+5. Once it has finished, click the 'files' icon in mu and upload the `Servolib.py` file to your microbit.
 
 6. Press reset on your microbit. When the program runs again it will load the module.
 
